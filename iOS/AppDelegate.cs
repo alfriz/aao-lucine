@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
-using MvvmCross.Platform;
 using Plugin.BLE.Abstractions.Contracts;
 using UIKit;
 
